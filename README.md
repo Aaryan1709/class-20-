@@ -1,2 +1,2 @@
-# class-20-
-Class 20 collision and bounce off algorithm.
+# p5.play-boilerplate
+Boiler plate for p5.play
